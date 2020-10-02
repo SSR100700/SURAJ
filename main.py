@@ -9,7 +9,7 @@ import time
 
 poke_list = ['Zygarde', 'Cosmog', 'Cosmoem', 'Solgaleo', 'Lunala', 'Necrozma', 'Magearna', 'Marshadow'
 , 'Greninja', 'Sylveon', 'Xerneas', 'Yveltal', 'Talonflame', 'Moltres', 'Charizard', 'Dragonite'
-, 'Alakazam', 'Ninjask', 'Shedinja', 'Snorlax', 'Mawile', 'Aerodactyl', 'Hoopa',  'Tyranitar', 'Hydreigon', 'Kangaskhan'
+, 'Alakazam', 'Ninjask', 'Shedinja', 'Snorlax', 'Mawile', 'Aerodactyl', 'Hoopa', 'Mewtwo', 'Kyurem', 'Shiny'
 ]
 
 #Thanks Anil Vro
