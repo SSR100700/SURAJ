@@ -26,7 +26,7 @@ with TelegramClient(StringSession(SESSION_KEY), API_ID, API_HASH,) as client:
             text = "`Onii-sama nHunts and nSex both must be integers :)`"
             await event.edit(text)
         else:
-            await event.edit("`Aye aye Captain... `"
+            await event.edit("`Jai hind dosto... `"
                             "\n`Started hunting right away on yer command 🤠`"
                             f"\n\n`Will be hunting {times_hunt} times. Each one of 'em in {set_sec} seconds.`"
                             f"\n\n`I will stop the hunting if I encounter any pokemon from the list.`"
