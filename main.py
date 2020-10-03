@@ -8,7 +8,7 @@ from constants import API_HASH, API_ID, SESSION_KEY
 import time
 
 poke_list = ['Zygarde', 'Cosmog', 'Cosmoem', 'Solgaleo', 'Lunala', 'Necrozma', 'Magearna', 'Marshadow'
-, 'Greninja', 'Sylveon', 'Xerneas', 'Yveltal', , 'Alakazam', 'Shedinja', 'Snorlax', 'Aerodactyl', 'Hoopa', 'Mewtwo', 'Kyurem', 'Found!' 
+, 'Greninja', 'Sylveon', 'Xerneas', 'Yveltal', 'Alakazam', 'Shedinja', 'Snorlax', 'Aerodactyl', 'Hoopa', 'Mewtwo', 'Kyurem', 'Found!' 
 ]
 
 #Thanks Anil Vro
