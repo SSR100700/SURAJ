@@ -7,8 +7,8 @@ from constants import CMD_PREFIX
 from constants import API_HASH, API_ID, SESSION_KEY
 import time
 
-poke_list = ['Zygarde', 'Cosmog', 'Cosmoem', 'Solgaleo', 'Lunala', 'Necrozma', 'Magearna', 'Marshadow'
-, 'Greninja', 'Sylveon', 'Xerneas', 'Yveltal', 'Hoopa', 'Mewtwo', 'Kyurem', 'Found!' 
+poke_list = ['Zygarde', 'Cosmog', 'Cosmoem', 'Solgaleo', 'Lunala', 'Necrozma', 'Magearna', 'Marshadow', 'Rayquaza'
+, 'Greninja', 'Sylveon', 'Xerneas', 'Zeraora' , 'Yveltal', 'Hoopa', 'Mewtwo', 'Kyurem', 'Found!' 
 ]
 
 #Thanks Anil Vro
