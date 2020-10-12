@@ -7,8 +7,8 @@ from constants import CMD_PREFIX
 from constants import API_HASH, API_ID, SESSION_KEY
 import time
 
-poke_list = ['Aegislash', 'Aerodactyl', 'Alakazam',' Arceus',' Beldum',' Blastoise',' Buzzwole', 'Chandelure',' Darkrai', 'Darmanitan' , 'Deoxys',' Dialga',' Diancie', 'Froakie', 'Frogadier', 'Garchomp',' Genesect', 'Gengar',' Giratina',' Greninja', 'Groudon', 'Gurdurr', 'Guzzlord', 'Ho-oh', 'Hoopa', 'Kartana', 'Kyogre', 'Kyurem',' Landorus', 'Lucario',' Lugia', 'Lunala', 'Marshadow', 'Melmetal',' Meloetta', 'Metagross', 'Metang',' Mewtwo',' Necrozma', 'Ninjask',' Palkia',' Pheromosa', 'Rayquaza',' Regigigas', 'Reshiram',' Riolu', 'Sableeye',' Slakoth', 'Solgaleo', 'Stakataka', 'Thundurus',' Tornadus', 'Victini', 'Vigoroth',' Volcanion',' Xerneas',' Xurkitree',' Yveltal',' Zeraora',
-' Zygarde', 'Found!']
+poke_list = ['Aegislash','Aerodactyl','Alakazam','Arceus','Beldum','Blastoise','Buzzwole','Chandelure','Darkrai','Darmanitan','Deoxys','Dialga','Diancie','Froakie','Frogadier','Garchomp','Genesect','Gengar','Giratina','Greninja','Groudon','Gurdurr','Guzzlord','Ho-oh','Hoopa','Kartana','Kyogre','Kyurem','Landorus','Lucario','Lugia','Lunala','Marshadow','Melmetal','Meloetta','Metagross','Metang','Mewtwo','Necrozma','Ninjask','Palkia','Pheromosa','Rayquaza','Regigigas','Reshiram','Riolu','Sableeye','Slakoth','Solgaleo','Stakataka','Thundurus','Tornadus','Victini','Vigoroth','Volcanion','Xerneas','Xurkitree','Yveltal','Zeraora',
+'Zygarde','Found!']
 #Thanks Anil Vro
 with TelegramClient(StringSession(SESSION_KEY), API_ID, API_HASH,) as client:
 
