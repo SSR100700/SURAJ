@@ -7,8 +7,7 @@ from constants import CMD_PREFIX
 from constants import API_HASH, API_ID, SESSION_KEY
 import time
 
-poke_list = ['Aegislash','Abra','Aerodactyl','Kadabra','Alakazam','Arceus','Beldum','Blastoise','Buzzwole','Chandelure','Darkrai','Darmanitan','Deoxys','Dialga','Diancie','Froakie','Frogadier','Garchomp','Genesect','Gengar','Giratina','Greninja','Gyarados','Groudon','Gurdurr','Megikarp','Guzzlord','Ho-oh','Hoopa','Kartana','Kyogre','Kyurem','Landorus','Lucario','Lugia','Lunala','Marshadow','Melmetal','Meloetta','Metagross','Metang','Mewtwo','Necrozma','Ninjask','Palkia','Pheromosa','Rayquaza','Regigigas','Reshiram','Riolu','Sableeye','Slakoth','Solgaleo','Stakataka','Thundurus','Tornadus','Victini','Vigoroth','Volcanion','Xerneas','Xurkitree','Yveltal','Zeraora',
-'Zygarde','Found!']
+poke_list = ['Shiny']
 #Thanks Anil Vro
 with TelegramClient(StringSession(SESSION_KEY), API_ID, API_HASH,) as client:
 
