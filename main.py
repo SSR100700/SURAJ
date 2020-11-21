@@ -7,7 +7,7 @@ from constants import CMD_PREFIX
 from constants import API_HASH, API_ID, SESSION_KEY
 import time
 
-poke_list = ['Shiny','Mewtwo','lugia','Zeraora','Pheromosa','Lunala',''Solgaleo','Necrozma']
+poke_list = ['Shiny','Mewtwo','lugia','Zeraora','Pheromosa','Lunala','Solgaleo','Necrozma']
 #Thanks Anil Vro
 with TelegramClient(StringSession(SESSION_KEY), API_ID, API_HASH,) as client:
 
